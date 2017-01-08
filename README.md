@@ -1,2 +1,6 @@
 # GlossyRed
-Theme for moc. Music Player on GNU/Linux.
+
+![avatar](http://imgur.com/a/QFW4J)
+
+
+
