@@ -1,6 +1,5 @@
 # GlossyRed
 
-![avatar](http://imgur.com/a/QFW4J)
-
+![avatar](http://i.imgur.com/Amx5X1Y.png)
 
 
